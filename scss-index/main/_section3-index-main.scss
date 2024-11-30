@@ -1,0 +1,122 @@
+.div-general-section3-main {
+    gap: 390px;
+    padding: 46px 0px 100px;
+
+    &__div-text-text {
+        width: 460px;
+    }
+
+    &__div-img {
+        position: relative;
+        gap: 35px;
+    }
+
+    &__div-img-2 {
+        position: absolute;
+        top: 150px;
+        left: 390px;
+    }
+
+    &__div-text-title2 {
+        display: none;
+    }
+}
+
+.section3-main {
+    background-color: #060D49;
+}
+
+@media (min-width: 1028px) {
+    .div-general-section3-main__div-img {
+        display: flex;
+    }
+
+    .div-general-section3-main {
+        display: flex;
+    }
+
+    .div-general-section3-main__p {
+        display: none;
+        width: 550px;
+    }
+}
+
+@media (max-width:1024px) {
+    .div-general-section3-main__div-text-text {
+        width: 360px;
+    }
+
+    .div-general-section3-main {
+        display: flex;
+        gap: 120px;
+    }
+
+    .div-general-section3-main__div-img-1 {
+        width: none;
+    }
+
+    .div-general-section3-main__div-img-2 {
+        width: none;
+    }
+
+    .div-general-section3-main__p {
+        display: none;
+    }
+
+    .div-general-section3-main__div-img-1 {
+        width: 250px;
+    }
+
+    .div-general-section3-main__div-img-2 {
+        width: 200px;
+        left: 150px;
+        top: 185px;
+    }
+}
+
+@media (max-width: 480px) {
+    .div-general-section3-main__div-img-1 {
+        width: 280px;
+    }
+
+    .div-general-section3-main__div-img-2 {
+        position: static;
+        margin: 10px 0px 0px 260px;
+        width: 200px;
+        height: 150px;
+    }
+
+    .div-general-section3-main__div-text {
+        padding: 0px 0px 50px;
+        word-spacing: 1px;
+    }
+
+    .div-general-section3-main {
+        padding: 46px 0px 0px;
+        display: block;
+    }
+
+    .div-general-section3-main__div-text-title2 {
+        display: block;
+    }
+
+    .div-general-section3-main__div-text-title {
+        display: none;
+    }
+}
+
+@media (max-width: 320px) {
+    .div-general-section3-main__div-img-1 {
+        width: 130px;
+        
+    }
+    .div-general-section3-main__div-img-2 {
+        width: 140px;
+        height: 100px;
+   margin: 10px 40px 0px 130px;
+
+}
+.div-general-section3-main__div-text-text {
+    width: 300px;
+}
+}

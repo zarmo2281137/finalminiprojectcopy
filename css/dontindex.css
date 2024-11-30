@@ -1,0 +1,248 @@
+header {
+  background-color: #020844;
+  padding: 33px 0 84px;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 96px;
+  margin: 0px;
+}
+
+h2 {
+  font-weight: 700;
+  font-size: 96px;
+  color: white;
+  margin: 0px;
+}
+
+h3 {
+  font-weight: 700;
+  font-size: 64px;
+  color: white;
+}
+
+h5 {
+  font-weight: 700;
+  color: white;
+  font-size: 64px;
+}
+
+h6 {
+  font-weight: 700;
+  font-size: 40px;
+  color: white;
+  margin: 0px;
+}
+
+p {
+  font-weight: 700;
+  font-size: 32px;
+  color: white;
+  margin: 0px;
+}
+
+.img-section1 {
+  width: 1400px;
+  height: 933px;
+}
+
+.section1-main {
+  background-color: #020844;
+}
+
+.div-general-section3-main__div-text1 {
+  width: 1300px;
+  height: 461px;
+  padding: 32px 0px 63px;
+  background-color: #000426;
+  gap: 85px;
+}
+.div-general-section3-main__div-text2 {
+  background-color: #060D49;
+  width: 1300px;
+  height: 461px;
+  padding: 32px 0px 63px;
+  gap: 85px;
+}
+.div-general-section3-main__div-text-text {
+  font-weight: 400;
+  font-size: 24px;
+  color: white;
+  width: 432px;
+}
+.div-general-section3-main__div-text-title {
+  font-weight: 700;
+  font-size: 48px;
+  color: white;
+}
+.div-general-section3-main__div-text {
+  gap: 39px;
+}
+.div-general-section3-main__div-img {
+  gap: 35px;
+}
+.div-general-section3-main__div-img-1 {
+  width: 365px;
+  height: 251px;
+}
+.div-general-section3-main__div-img-2 {
+  width: 265px;
+  padding: 161px 0px 0px;
+}
+.div-general-section3-main__div-img {
+  background-color: #010632;
+  padding: 0px 0px 65px;
+}
+.div-general-section3-main__img-div1 {
+  gap: 37px;
+}
+.div-general-section3-main__img {
+  gap: 21px;
+}
+.div-general-section3-main__img1 {
+  height: 240px;
+}
+.div-general-section3-main__img-div2-img1 {
+  height: 261px;
+}
+.div-general-section3-main__img-div2-img2 {
+  height: 261px;
+  width: 458px;
+}
+.div-general-section3-main__img-div1-img1 {
+  padding: 0px 0px 21px;
+  height: 264px;
+  width: 364px;
+}
+.div-general-section3-main__div-img {
+  gap: 30px;
+}
+.div-general-section3-main__div-img {
+  gap: 37px;
+}
+.div-general-section3-main__img-1 {
+  height: 524px;
+}
+.div-general-section3-main__img-div2 {
+  gap: 42px;
+  padding: 21px 0px 0px;
+}
+.div-general-section3-main__div-img-title {
+  font-weight: 700;
+  font-size: 48px;
+  color: white;
+}
+.div-general-section3-main__div-modal {
+  background-color: #060D49;
+}
+.div-general-section3-main__div-modal-div-modal {
+  gap: 65px;
+}
+.div-general-section3-main__div-modal-card {
+  width: 365px;
+  padding: 26px 15px 19px;
+  gap: 4px;
+  background-color: white;
+}
+.div-general-section3-main__div-modal-card-text {
+  width: 287px;
+  font-weight: 400;
+  font-size: 24px;
+  color: #000;
+  text-align: center;
+}
+.div-general-section3-main__div-modal-button, .div-general-section3-main__div-modal-button1, .div-general-section3-main__div-modal-button2, .div-general-section3-main__div-modal-button3 {
+  border-radius: 15px;
+  background: #0057ff;
+  padding: 13px 58px;
+  border: 0px;
+  margin: 14px 0px 0px;
+}
+.div-general-section3-main__div-modal-content {
+  gap: 35px;
+}
+.div-general-section3-main__div-modal2, .div-general-section3-main__div-modal3 {
+  width: 1005px;
+  height: 598px;
+  border-radius: 21px;
+  gap: 55px;
+  display: none;
+}
+.div-general-section3-main .div-content-modal-windov {
+  gap: 29px;
+}
+.div-general-section3-main__div-modal4 {
+  width: 1005px;
+  height: 598px;
+  background-color: white;
+  border-radius: 21px;
+}
+.div-general-section3-main__div-modal4-button {
+  display: flex;
+  justify-content: center;
+}
+.div-general-section3-main .active {
+  display: flex;
+}
+.div-general-section3-main__div-modal-title {
+  font-weight: 700;
+  font-size: 48px;
+  color: white;
+}
+.div-general-section3-main__div-modal-card-title {
+  font-weight: 700;
+  font-size: 48px;
+  color: #000;
+}
+.div-general-section3-main__div-end {
+  background-color: #010632;
+  padding: 0px 0px 61px;
+}
+.div-general-section3-main__div-end-text3 {
+  width: 401px;
+  text-decoration: none;
+  font-size: 1.25rem;
+}
+.div-general-section3-main__div-end-content {
+  gap: 330px;
+}
+
+.section2-main {
+  background-color: #020844;
+  padding: 279px 0px 32px;
+}
+
+.div-general-section2-main {
+  gap: 32px;
+}
+.div-general-section2-main__content-text {
+  gap: 19px;
+}
+
+.div-general-section4-main {
+  background-color: #020844;
+  gap: 155px;
+}
+.div-general-section4-main__div-color-content {
+  gap: 30px;
+}
+.div-general-section4-main__div-color {
+  gap: 30px;
+}
+
+.div-general-section5-main {
+  background-color: #003c80;
+}
+.div-general-section5-main__card-img {
+  width: 450px;
+}
+.div-general-section5-main__card-img2 {
+  width: 450px;
+}
+.div-general-section5-main__2card {
+  gap: 40px;
+}
+.div-general-section5-main__content {
+  gap: 40px;
+}

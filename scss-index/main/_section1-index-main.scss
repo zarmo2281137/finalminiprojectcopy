@@ -1,0 +1,14 @@
+.section1-main {
+    background-image: url("/finalminiproject/img/backgroundheader.jpg");
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+    
+}
+
+@media (max-width: 480px) {
+    .div-general-section1-main {
+        height: 600px;
+    }
+}
+

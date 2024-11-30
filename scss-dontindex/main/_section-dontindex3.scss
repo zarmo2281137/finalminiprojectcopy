@@ -1,0 +1,200 @@
+.div-general-section3-main {
+
+
+    &__div-text1 {
+        width: 1300px;
+        height: 461px;
+        padding: 32px 0px 63px;
+        background-color: #000426;
+        gap: 85px;
+
+    }
+
+    &__div-text2 {
+        background-color: #060D49;
+        width: 1300px;
+        height: 461px;
+        padding: 32px 0px 63px;
+        gap: 85px;
+    }
+
+    &__div-text-text {
+        font-weight: 400;
+        font-size: 24px;
+        color: white;
+        width: 432px;
+    }
+
+    &__div-text-title {
+        font-weight: 700;
+        font-size: 48px;
+        color: white;
+    }
+
+    &__div-text {
+        gap: 39px;
+    }
+
+    &__div-img {
+        gap: 35px;
+    }
+
+    &__div-img-1 {
+        width: 365px;
+        height: 251px;
+    }
+
+    &__div-img-2 {
+        width: 265px;
+        padding: 161px 0px 0px;
+    }
+
+    &__div-img {
+        background-color: #010632;
+        padding: 0px 0px 65px;
+    }
+
+    &__img-div1 {
+        gap: 37px;
+    }
+
+    &__img {
+        gap: 21px;
+    }
+
+    &__img1 {
+        height: 240px;
+    }
+
+    &__img-div2-img1 {
+        height: 261px;
+    }
+
+    &__img-div2-img2 {
+        height: 261px;
+        width: 458px;
+    }
+
+    &__img-div1-img1 {
+        padding: 0px 0px 21px;
+        height: 264px;
+        width: 364px;
+    }
+
+    &__div-img {
+        gap: 30px;
+    }
+
+    &__div-img {
+        gap: 37px;
+    }
+
+    &__img-1 {
+        height: 524px;
+    }
+
+    &__img-div2 {
+        gap: 42px;
+        padding: 21px 0px 0px;
+    }
+
+    &__div-img-title {
+        font-weight: 700;
+        font-size: 48px;
+        color: white;
+    }
+
+    &__div-modal {
+        background-color: #060D49;
+    }
+
+    &__div-modal-div-modal {
+        gap: 65px;
+    }
+
+    &__div-modal-card {
+        width: 365px;
+        padding: 26px 15px 19px;
+        gap: 4px;
+        background-color: white;
+    }
+
+    &__div-modal-card-text {
+        width: 287px;
+        font-weight: 400;
+        font-size: 24px;
+        color: #000;
+        text-align: center;
+    }
+
+    &__div-modal-button,
+    &__div-modal-button1,
+    &__div-modal-button2,
+    &__div-modal-button3 {
+        border-radius: 15px;
+        background: #0057ff;
+        padding: 13px 58px;
+        border: 0px;
+        margin: 14px 0px 0px;
+    }
+
+    &__div-modal-content {
+        gap: 35px;
+    }
+
+    &__div-modal2,
+    &__div-modal3 {
+        width: 1005px;
+        height: 598px;
+        border-radius: 21px;
+        gap: 55px;
+        display: none;
+    }
+
+    .div-content-modal-windov {
+        gap: 29px;
+    }
+
+    &__div-modal4 {
+        width: 1005px;
+        height: 598px;
+        background-color: white;
+        border-radius: 21px;
+    }
+
+    &__div-modal4-button {
+        display: flex;
+        justify-content: center;
+    }
+
+    .active {
+        display: flex;
+    }
+
+    &__div-modal-title {
+        font-weight: 700;
+        font-size: 48px;
+        color: white;
+    }
+
+    &__div-modal-card-title {
+        font-weight: 700;
+        font-size: 48px;
+        color: #000;
+    }
+
+    &__div-end {
+        background-color: #010632;
+        padding: 0px 0px 61px;
+    }
+
+    &__div-end-text3 {
+        width: 401px;
+        text-decoration: none;
+        font-size: 1.25rem;
+    }
+
+    &__div-end-content {
+        gap: 330px;
+    }
+}

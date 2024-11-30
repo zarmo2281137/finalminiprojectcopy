@@ -1,0 +1,137 @@
+.modal-dialog {
+    max-width: 1005px;
+}
+
+.modal-content {
+    padding: 0px 0px 90px;
+}
+
+.modal-body {
+    gap: 20px;
+}
+
+.modal-windov__button {
+    border-radius: 15px;
+    background: #0057ff;
+    padding: 13px 58px;
+    border: 0px;
+    margin: 0px 0px 0px 15px;
+}
+
+.modal-window__img {
+    width: 335px;
+    height: 446px;
+}
+
+.modal-window__img2 {
+    width: 335px;
+    height: 375px;
+}
+
+.modal-window__div-gap {
+    gap: 55px;
+}
+
+.modal-end-text {
+    padding: 150px 0px 100px;
+    color: black;
+}
+
+.modal-header {
+    border: 0px;
+}
+
+.modal-window__img-adaptiv {
+    display: none;
+}
+
+.div-content-modal-windov__input2,
+.div-content-modal-windov__text {
+    display: none;
+}
+
+.modal-footer {
+    border: 0px;
+    justify-content: normal;
+}
+
+.modal-end-footer-button-close {
+    display: none;
+}
+
+@media (max-width: 1024px) {
+    .modal-window__img {
+        width: 335px;
+        height: 406px;
+    }
+
+    .modal-body__input {
+        width: 336px;
+    }
+
+    .modal-window__div-gap {
+        gap: 35px;
+    }
+}
+
+@media (max-width: 480px) {
+    .div-content-modal-windov__input2 {
+        width: 200px;
+        display: block;
+    }
+
+    .div-content-modal-windov__text {
+        display: block;
+    }
+
+    .modal-body__input {
+        width: 306px;
+    }
+
+    .modal-window__img {
+        display: none;
+    }
+
+    .modal-window__img-adaptiv {
+        width: 105px;
+        height: 126px;
+        border-radius: 20px;
+        display: block;
+    }
+
+    .modal-window_button-adaptiv-position {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .modal-footer {
+        display: flex;
+        justify-content: end;
+        width: 450px;
+    }
+
+    .modal-content {
+        padding: 0px;
+    }
+
+    .modal-window-end {
+        display: none;
+    }
+
+    .modal-end-text {
+        font-size: 40px;
+    }
+
+    .modal-end-footer-button-close {
+        display: block;
+        border-radius: 15px;
+        background: #0057ff;
+        padding: 13px 58px;
+        border: 0px;
+    }
+
+    .modal-end-text {
+        padding: 200px 0px 150px;
+        color: black;
+    }
+}

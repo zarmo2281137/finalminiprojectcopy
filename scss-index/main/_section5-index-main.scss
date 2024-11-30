@@ -1,0 +1,137 @@
+.div-general-section5-main {
+    gap: 65px;
+
+    &__card {
+        width: 365px;
+        height: 487px;
+        gap: 4px;
+        background-color: white;
+        padding: 15px 0px 0px;
+    }
+
+    &__card-text {
+        width: 287px;
+        text-align: center;
+    }
+
+    &__button,
+    &__button1,
+    &__button2,
+    &__button3 {
+        border-radius: 15px;
+        background: #0057ff;
+        padding: 13px 58px;
+        border: 0px;
+        margin: 14px 0px 0px;
+    }
+
+    &__content {
+        gap: 35px;
+    }
+}
+
+.section5 {
+    background-color: #060D49;
+    padding: 40px 0px 196px;
+}
+
+.active {
+    display: block;
+}
+
+.div-general-modal-windov-section5-main1,
+.div-general-modal-windov-section5-main2,
+.div-general-modal-windov-section5-main3 {
+    height: 598px;
+    background-color: white;
+    border-radius: 21px;   
+    padding: 29px 0px 0px;
+    gap: 55px;
+    display: none;
+}
+
+.div-general-modal-windov-section5-main1 {
+    position: fixed;
+    z-index: 1;
+}
+
+.div-content-modal-windov {
+    gap: 29px;
+}
+
+.div-general-modal-windov-end-section5-main {
+    width: 1005px;
+    height: 598px;
+    background-color: white;
+    border-radius: 21px;
+
+    &__button {
+        display: flex;
+        align-items: end;
+        text-decoration: none;
+        width: 22px;
+        height: 22px;
+    }
+}
+
+.div-img-modal-windov {
+    display: flex;
+}
+
+.div-general-section5-main__content-div-for-adaptiv {
+    display: flex;
+    gap: 35px;
+}
+
+@media (max-width: 1024px) {
+    .div-general-section5-main__content {
+        flex-direction: column;
+        align-items: center;
+        gap: 15px;
+    }
+
+    .div-general-section5-main__content-div-for-adaptiv {
+        gap: 15px;
+    }
+}
+
+@media (max-width: 480px) {
+    .div-general-section5-main__content {
+        flex-direction: column;
+        gap: 35px;
+    }
+
+    .div-general-section5-main__title {
+        display: none;
+    }
+
+    .div-content-modal-windov__input {
+        width: 430px;
+    }
+
+    .div-content-modal-windov {
+        gap: 5px;
+    }
+
+    .div-general-modal-windov-section5-main2 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .div-img-modal-windov {
+        display: none;
+    }
+
+    .div-content-modal-windov__img {
+        width: 105px;
+        height: 126px;
+        border-radius: 10px;
+    }
+
+    .div-general-section5-main__content-div-for-adaptiv {
+        display: flex;
+        flex-direction: column;
+        gap: 35px;
+    }
+}

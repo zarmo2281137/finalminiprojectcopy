@@ -1,0 +1,16 @@
+@import './footer-index';
+@import './header';
+@import './stily';
+@import './main/section1-index-main';
+@import './main/section2-index-main';
+@import './main/section3-index-main';
+@import './main/section4-index-main';
+@import './main/section5-index-main';
+@import './main/section6-index-main';
+.section1-main {
+    background-image: url("../img/backgroundheader.jpg");
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+    height: 600px;
+}
