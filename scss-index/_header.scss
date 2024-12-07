@@ -63,6 +63,9 @@ span {
     .div-general-header__nav-link {
         display: none ;
     }
+    .div-general-header__nav-span {
+        width: 90px;
+    }
 }
 
 @media (min-width: 768px ) { .text-info {
