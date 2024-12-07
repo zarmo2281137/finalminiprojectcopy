@@ -352,13 +352,16 @@ a {
 }
 @media (max-width: 480px) {
   .div-general-section3-main__div-img-1 {
-    width: 280px;
+    width: 180px;
+  }
+  .div-general-section3-main__div-text-text {
+    width: 350px;
   }
   .div-general-section3-main__div-img-2 {
     position: static;
-    margin: 10px 0px 0px 260px;
-    width: 200px;
-    height: 150px;
+    margin: 10px 0px 0px 160px;
+    width: 150px;
+    height: 120px;
   }
   .div-general-section3-main__div-text {
     padding: 0px 0px 50px;
